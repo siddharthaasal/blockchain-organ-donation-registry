@@ -8,8 +8,8 @@
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/organ-donation-registry.git
-   cd organ-donation-registry
+   git clone https://github.com/siddharthaasal/blockchain-organ-donation-registry.git
+   cd blockchain-organ-donation-registry 
    ```
 
 2. **Install dependencies**:
