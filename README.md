@@ -10,6 +10,8 @@ The **Blockchain Organ Donation Registry** is a blockchain-based platform design
 - **Decentralization**: Eliminates the need for a central authority, increasing trust.
 - **Scalability**: Designed to handle a growing number of users and transactions.
 
+## Installation
+To setup this project please follow the [INSTALLATION.md](INSTALLATION.md) guidelines.
 
 ## Technologies Used
 - **Frontend**: React, JavaScript
