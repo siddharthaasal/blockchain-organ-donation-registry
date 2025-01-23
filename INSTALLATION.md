@@ -38,13 +38,13 @@
 
 7. **Start the backend server**:
    ```bash
-   cd backend
-   npm start
+   cd server
+   node --watch index.js
    ```
 
 8. **Start the frontend application**:
    ```bash
-   cd frontend
+   cd client
    npm start
    ```
 ``` 
